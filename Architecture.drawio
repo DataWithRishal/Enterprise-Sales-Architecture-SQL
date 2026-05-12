@@ -110,6 +110,21 @@
         <mxCell id="1VmNsDmsfdLU236UDSff-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Object Type: views&lt;div&gt;No Load:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transformations:&lt;/div&gt;&lt;div&gt;data integration&lt;/div&gt;&lt;div&gt;data Aggregation&lt;/div&gt;&lt;div&gt;bussiness Logics&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data Model:&lt;/div&gt;&lt;div&gt;star schema&amp;nbsp;&lt;/div&gt;&lt;div&gt;flat table&amp;nbsp;&lt;/div&gt;&lt;div&gt;aggregated Table&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="117" x="563" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-41" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" value="" vertex="1">
+          <mxGeometry height="56.51" width="42.38" x="804.81" y="105.51" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-44" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.machine_learning;" value="" vertex="1">
+          <mxGeometry height="50.099999999999994" width="49.8" x="804.81" y="251" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BI &amp;amp; Reporting" vertex="1">
+          <mxGeometry height="30" width="101" x="775.5" y="169.51" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Machine learning" vertex="1">
+          <mxGeometry height="30" width="101" x="779.21" y="313.06" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-47" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="38" x="232" y="-51.19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
