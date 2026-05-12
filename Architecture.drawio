@@ -43,6 +43,18 @@
         <mxCell id="1VmNsDmsfdLU236UDSff-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" value="Gold Layer" vertex="1">
           <mxGeometry height="24" width="120" x="560" y="144" as="geometry" />
         </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-13" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" value="" vertex="1">
+          <mxGeometry height="48" width="38.96" x="60.63" y="192" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-14" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" value="" vertex="1">
+          <mxGeometry height="52.99" width="43.01" x="60.63" y="331.01" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CRM" vertex="1">
+          <mxGeometry height="30" width="60" x="52.13999999999999" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmNsDmsfdLU236UDSff-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ERP&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="50.110000000000014" y="391.38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
