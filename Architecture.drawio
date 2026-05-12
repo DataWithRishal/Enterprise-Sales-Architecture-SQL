@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="MK79uTU2iERs2oA1wXPX">
+    <mxGraphModel dx="1814" dy="671" grid="1" gridSize="24" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="trVLyA2Ukssk8H3LY9TB-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=25;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;High Level Architecture&lt;/p&gt;" vertex="1">
+          <mxGeometry height="48" width="310" x="-28.75" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="trVLyA2Ukssk8H3LY9TB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="157.5" width="400" x="-118.75" y="241.25" as="geometry" />
+        </mxCell>
+        <mxCell id="trVLyA2Ukssk8H3LY9TB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=light-dark(#000000,#FFFFFF);" value="Sources" vertex="1">
+          <mxGeometry height="30" width="90" x="36.25" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="trVLyA2Ukssk8H3LY9TB-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="458.75" width="400" x="270.63" y="90.63" as="geometry" />
+        </mxCell>
+        <mxCell id="trVLyA2Ukssk8H3LY9TB-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" value="DATA WAREHOUSE" vertex="1">
+          <mxGeometry height="60" width="192" x="384" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="trVLyA2Ukssk8H3LY9TB-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="408" width="144" x="744" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="trVLyA2Ukssk8H3LY9TB-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" value="Consumer" vertex="1">
+          <mxGeometry height="40.75" width="120" x="756" y="94.63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
